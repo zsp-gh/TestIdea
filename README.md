@@ -1,2 +1,2 @@
 # TestIdea
-在IDEA上测试给i他的使用
+在IDEA上测试git的使用
